@@ -1,4 +1,5 @@
 # To Insert New data Use
+````
 mutation {
   createCourse(
     id: "7" 
@@ -12,8 +13,10 @@ mutation {
     }
   }
 } 
+````
 
 # To get all data 
+````
 {
   getCourse {
     id
@@ -22,8 +25,10 @@ mutation {
     publishDate
         }
 }
+````
 
 # To get data with id
+````
 {
   getCourse(id: "2") {
     id
@@ -32,8 +37,9 @@ mutation {
     publishDate
         }
 }
-
+````
 # To get paginated results
+````
 {
   getCourse(first:3, skip:6) {
     id
@@ -42,3 +48,10 @@ mutation {
     publishDate
         }
 }
+````
+# Sample Subscription
+````
+subscription{
+  timeOfDay
+}
+````
