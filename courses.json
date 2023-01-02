@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Python variables explained",
+    "instructor": "Tracy Williams",
+    "publish_date": "12th May 2020"
+  },
+  {
+    "id": "2",
+    "title": "How to use functions in Python",
+    "instructor": "Jane Black",
+    "publish_date": "9th April 2018"
+  },
+  {
+    "id": "3",
+    "title": "Asynchronous Python",
+    "instructor": "Matthew Rivers",
+    "publish_date": "10th July 2020"
+  },
+  {
+    "id": "4",
+    "title": "Build a REST API",
+    "instructor": "Nitin Kalmaste",
+    "publish_date": "3rd March 2016"
+  },
+  {
+    "id": "11",
+    "title": "Python Lists",
+    "instructor": "Jane Melody"
+  },
+  {
+    "id": "5",
+    "title": "Golang the journey",
+    "instructor": "Shane Warne"
+  },
+  {
+    "id": "6",
+    "title": "Swap The Man",
+    "instructor": "Do little"
+  },
+  {
+    "id": "7",
+    "title": "Joker it's me",
+    "instructor": "Donkey"
+  }
+]
